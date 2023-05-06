@@ -1,1 +1,1 @@
-### Interpretable-Multiethnic-Transfer-learning-for-Type-2-Diabetes-Risk-Factor-Discovery-from-UKBiobank
+### Interpretable Multi-ethnic Transfer learning for Type 2 Diabetes Risk Factor Discovery by integrating omics and non-omics (OnO) data from the UKBiobank
